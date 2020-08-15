@@ -1,0 +1,16 @@
+Neutral, 1;
+Happy, 13;
+Neutral, 23;
+Angry, 46;
+Neutral, 47;
+Sad, 65;
+Neutral, 66;
+Fearful, 67;
+Happy, 69;
+Fearful, 71;
+Happy, 72;
+Neutral, 73;
+Happy, 75;
+Neutral, 79;
+
+Surprised:   Number of occurrences: 0
